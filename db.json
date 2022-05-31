@@ -1,0 +1,14 @@
+{
+  "rels": [
+    {
+      "type": "instagram",
+      "link": "https://nextjs.org/docs/advanced-features/i18n-routing",
+      "id": 1
+    },
+    {
+      "type": "twitter",
+      "link": "https://nextjs.org/docs/advanced-features/i18n-routing",
+      "id": 2
+    }
+  ]
+}
